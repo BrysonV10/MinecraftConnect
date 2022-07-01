@@ -1,0 +1,4 @@
+name: MinecraftConnect
+version: '${project.version}'
+main: brysonv.minecraftconnect.MinecraftConnect
+api-version: 1.19

@@ -1,0 +1,17 @@
+#########################
+#      MINECRAFT        #
+#       CONNECT         #
+#########################
+#       CONFIG          #
+#########################
+
+#MUST CHANGE - replace with Discord Webhook URL
+webhook: replaceme
+
+#Adjust As Needed: which events will be sent
+playerOnJoin: true
+playerOnLeave: true
+playerOnDeath: true
+chat: true
+onServerStart: true
+onServerEnd: true
